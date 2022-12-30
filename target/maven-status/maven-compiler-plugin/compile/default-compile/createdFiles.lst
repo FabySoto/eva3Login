@@ -1,0 +1,8 @@
+com\mycompany\login\forms\LoginForm$2.class
+com\mycompany\login\forms\LoginForm.class
+com\mycompany\login\user\repository\UserRepository.class
+com\mycompany\login\connection\MysqlDbConnection.class
+com\mycompany\login\user\repository\IUserRepository.class
+com\mycompany\login\forms\user.class
+com\mycompany\login\forms\LoginForm$1.class
+com\mycompany\login\user\model\UserEntity.class
